@@ -41,9 +41,7 @@ LSTM model's architecture \
 7. **Visualization:** Visualize forecasted results from LSTM RNN network and predictions from the Random Forest Model.
    
 \
-\
 Graphical Representation of Workflow
-\
 <img alt="image" src="https://github.com/rahult18/Stock-Market-Prediction-and-Forecasting/assets/59415849/d6560172-d764-407c-9abc-bdc65f067572">
 
 
